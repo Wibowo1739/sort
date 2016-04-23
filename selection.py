@@ -30,4 +30,3 @@ for j in range(0,lennum):
 print()
 print("Sorted")
 print(sort)
-
